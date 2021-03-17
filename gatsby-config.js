@@ -10,7 +10,7 @@ module.exports = {
     siteTitleAlt: ``,
     siteHeadline: `Özer Y. Blog`,
     siteUrl: `https://ozery.dev/`,
-    siteDescription: `A Blog about challenging issues working on frontend environments`,
+    siteDescription: `A Blog about challenging frontend issues`,
     siteLanguage: `en`,
     author: `@oyilmaztekin`,
   },
